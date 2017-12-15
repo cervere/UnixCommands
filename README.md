@@ -12,3 +12,5 @@ re@in:~$ ll
 drwxrwxr-x  2 xyz xyz 4096 déc.  12 17:18 Foo Bar_foo.bar@etu.u-abc.fr/
 ```
 
+### Ocaml Tuareg mode in Emacs
+https://howtos.gattaz.net/2015/09/14/install-ocaml-and-the-tuareg-mode-on-ubuntu-14-04/
